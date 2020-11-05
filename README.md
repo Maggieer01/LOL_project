@@ -1,2 +1,2 @@
-# LOL_678_project
+# 678_project
 Midterm Project-League of Legends Dataset
